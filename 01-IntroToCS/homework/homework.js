@@ -12,7 +12,6 @@ function BinarioADecimal(num) {
   return result;
  }
 
-
 function DecimalABinario(num) {
   // tu codigo aca
   //Dividir num /2 hasta llegar a 0
